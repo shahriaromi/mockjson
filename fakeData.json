@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Dr. M. H. Shaheel Mahmood",
+    "specialty": "Senior Cosultant, ENT, Head & Neck Surgery",
+    "degree": "MBBS, FCPS, MS",
+    "phone": "01587631594",
+    "experience": "5 years",
+    "img": "https://www.squarehospital.com/storage/images/1521003169Dr_Fazlul_(4).JPG",
+    "id": 1
+  },
+  {
+    "name": "Dr. Sanjoy Banerjee",
+    "specialty": "Consultant, ENT, Head & Neck Surgery",
+    "degree": "MBBS, FCPS (ENT)",
+    "phone": "01468523457",
+    "experience": "3 years",
+    "img": "https://www.squarehospital.com/storage/images/1543208289.jpg",
+    "id": 2
+  },
+  {
+    "name": "Prof. Dr. Brig. Gen. Md. Azizul",
+    "specialty": "Senior Consultant, Psychiatry",
+    "degree": "MBBS, FCPS, FRCP (UK), FACP (USA)",
+    "phone": "01857469231",
+    "experience": "8 years",
+    "img": "https://www.squarehospital.com/storage/images/1521372253Dr._M._H._Shaheel_Mahmood.JPG",
+    "id": 3
+  },
+  {
+    "name": "Dr. Mosaddeque Ahmed",
+    "specialty": "Consultant, Nephrology",
+    "degree": "MBBS, USMLE, MRCP (UK)",
+    "phone": "01963452871",
+    "experience": "7 years",
+    "img": "https://www.squarehospital.com/storage/images/1521349664Dr._Sanjoy_Banerjee.JPG",
+    "id": 4
+  },
+  {
+    "name": "Dr. Fowaz Hussain Shuvo",
+    "specialty": "Consultant – Hepatology & Gastroenterology",
+    "degree": "MBBS, MD (Hepatology)",
+    "phone": "01756423891",
+    "experience": "6 years",
+    "img": "https://www.squarehospital.com/storage/images/1542617874.png",
+    "id": 5
+  },
+  {
+    "name": "Prof. Dr. Md. Kabirul Islam",
+    "specialty": "Senior Consultant, Pediatric Surgery",
+    "degree": "MBBS, MS (Ped. Surgery), FICS (USA)",
+    "phone": "01956234872",
+    "experience": "9 years",
+    "img": "https://www.squarehospital.com/storage/images/1521002996Dr_Kabirul_(7).JPG",
+    "id": 6
+  }
+]
